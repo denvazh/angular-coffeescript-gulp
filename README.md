@@ -45,6 +45,7 @@ $ gulp help
 # To-Do
 
 gulp tasks for production deployment:
+
 		* usemin
 		* uglify
 		* concat
