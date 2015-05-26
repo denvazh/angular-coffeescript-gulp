@@ -1,0 +1,15 @@
+{
+  "name": "angular-coffeescript-gulp",
+  "version": "0.0.1",
+  "description": "Empty application template",
+  "author": "nobody",
+  "homepage": "https://github.com/denvazh/angular-coffeescript-gulp",
+  "private": false,
+  "build": {
+    "config": {
+      "bowerDir": "bower_components",
+      "src": "app",
+      "dest": "www"
+    }
+  }
+}
